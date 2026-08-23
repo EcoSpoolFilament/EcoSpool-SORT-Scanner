@@ -23,7 +23,7 @@
 
 // 1 = run the UI on a bare T-Display S3 with NO sensor board (fake readings).
 // 0 = real hardware. SET BACK TO 0 before using the actual board.
-#define SIM_MODE 1
+#define SIM_MODE 0
 
 /* LED CHANNEL MAP (confirmed) — ascending wavelength; never reorder once you
    start collecting data.
